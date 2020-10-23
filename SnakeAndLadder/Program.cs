@@ -9,7 +9,7 @@ namespace SnakeAndLadder
 
         /// variables
         public static int currentPosition = 0;
-
+      
         /// <summary>
         /// Defines the entry point of the application.
         /// </summary>
