@@ -4,8 +4,6 @@ namespace SnakeAndLadder
 {
     class Program
     {
-
-
         /// constants
         const int START_POSITION = 0;
         const int END_POSITION = 100;
@@ -71,7 +69,6 @@ namespace SnakeAndLadder
                         currentPosition = START_POSITION;
                     }
                 }
-                // ++thrownDice;
                 Console.WriteLine("Option: " + selectedOption + " Number on Dice: " + diceThrown + " Current Position : " + currentPosition);
 
             }
