@@ -69,7 +69,9 @@ namespace SnakeAndLadder
                         currentPosition = START_POSITION;
                     }
                 }
-               // ++thrownDice;
+                // ++thrownDice;
+                Console.WriteLine("Option: " + selectedOption + " Number on Dice: " + diceThrown + " Current Position : " + currentPosition);
+
             }
             /// It Will give the  Current Position of Player and,
             /// It Will give the Count of Total Number of Times Dice was thrown 
