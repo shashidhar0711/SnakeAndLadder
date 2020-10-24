@@ -3,6 +3,9 @@ using System;
 namespace SnakeAndLadder
 {
     class Program
+    {
+
+
         /// constants
         const int START_POSITION = 0;
         const int END_POSITION = 100;
