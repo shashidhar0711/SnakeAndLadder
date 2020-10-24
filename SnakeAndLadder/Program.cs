@@ -1,9 +1,8 @@
-﻿using System;
+using System;
 
 namespace SnakeAndLadder
 {
     class Program
-    {
         /// constants
         const int START_POSITION = 0;
         const int END_POSITION = 100;
@@ -16,7 +15,7 @@ namespace SnakeAndLadder
         public static int selectedOption = 0;
         public static int thrownDice = 0;
         public static int diceThrown = 0;
-
+    
         /// <summary>
         /// Defines the entry point of the application.
         /// </summary>
